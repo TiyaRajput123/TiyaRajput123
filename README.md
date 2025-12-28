@@ -24,7 +24,7 @@
 
 **Project 2:** 🗳 Online Voting System
 **Description:** A machine learning-based system that predicts the best class representative using multiple ML algorithms with high accuracy.
-**Tech Stack:** ML Algorithms
+**Tech Stack:** ML Algorithms, Scikit-learn, NumPy, Pandas, Anaconda
 
 
 # 📊 GitHub Stats:
