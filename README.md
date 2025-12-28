@@ -1,5 +1,6 @@
-##                                                                                   Hi 👋, I’m Tiya Rajput
-##                                                 Crafting My Tech Universe: Full-Stack MERN Developer, AI/ML Enthusiast, and CS Student Extraordinaire ✨
+<h2 align="center">Hi 👋, I’m Tiya Rajput</h2>
+<h3 align="center">Crafting My Tech Universe: Full-Stack MERN Developer, AI/ML Enthusiast, and CS Student Extraordinaire ✨</h3>
+
 
 # 💫 About Me:
 🎓 CS Enthusiast at Graphic Era Hill University: Exploring the World of Software Development<br>💻 Interested in full-stack web development and AI-powered applications<br>🧩 Regularly practice DSA to strengthen logic and problem-solving skills<br>🔍 Curious about how real-world products are designed, built, and optimized
