@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I’m Tiya Rajput</h1>
-<h3 align="center">Crafting My Tech Universe: Full-Stack MERN Developer, AI/ML Enthusiast, and CS Student Extraordinaire ✨</h3>
+<h3 align="center">Building a Tech Universe: Full-Stack MERN Developer | AI & ML | CS Student ✨</h3>
 
 
 # 💫 About Me:
