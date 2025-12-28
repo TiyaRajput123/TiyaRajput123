@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Tiya Rajput
+  ##  Hi 👋, I’m Tiya Rajput
 Crafting My Tech Universe: Full-Stack MERN Developer, AI/ML Enthusiast, and CS Student Extraordinaire ✨
 
 # 💫 About Me:
