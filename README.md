@@ -20,12 +20,12 @@
  
 
 **Project 2:** 🧠 AI Code Review Tool
-**Description:** An AI-powered tool that analyzes source code and provides feedback on bugs and inefficiencies.  
+**Description:** An AI-powered tool that analyzes source code and provides feedback on bugs and inefficiencies.
 **Tech Stack:** React, Node.js, Express, AI models
 
-**Project 3:** 🗳 Online Voting System
+**Project 3:** 🗳 Online Voting System – ML-Powered
 **Description:** A machine learning-based system that predicts the best class representative using multiple ML algorithms with high accuracy.
-**Tech Stack:** ML Algorithms, Scikit-learn, NumPy, Pandas, Anaconda
+**Tech Stack:** ML Algorithms (SVC, Logistic Regression, GaussianNB, Random Forest), Scikit-learn, NumPy, Pandas, Anaconda
 
 
 # 📊 GitHub Stats:
