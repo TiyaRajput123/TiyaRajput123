@@ -18,8 +18,8 @@
 **Description:** A full-stack AI assistant that takes voice input, processes queries using AI, and responds with text and voice output.   
 **Tech Stack:** React, Node.js, Express, MongoDB
 
-**Project 2:** 🧠 AI Code Review Tool
-**Description:** An AI-powered tool that analyzes source code and provides feedback on bugs and inefficiencies.    
+**Project 2:** 🧠 AI Code Review Tool  
+**Description:** An AI-powered tool that analyzes source code and provides feedback on bugs and inefficiencies. 
 **Tech Stack:** React, Node.js, Express, AI models
 
 **Project 3:** 🗳 Online Voting System  
