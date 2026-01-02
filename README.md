@@ -14,7 +14,7 @@
 # 📚 Projects 
 *Dive into my coding cosmos! 💡 Highlighting projects in Full-Stack Development and ML.*
 
-**Project 3:** 🔊 Agentra   
+**Project 1:** 🔊 Agentra   
 **Description:** A full-stack AI assistant that takes voice input, processes queries using AI, and responds with text and voice output.   
 **Tech Stack:** React, Node.js, Express, MongoDB
 
