@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I’m Tiya Rajput</h1>
 <h3 align="center">Building a Tech Universe: Full-Stack MERN Developer | AI & ML | CS Student ✨</h3>
 
-
 # 💫 About Me:
 🎓 CS Enthusiast at Graphic Era Hill University: Exploring the World of Software Development<br>💻 Interested in full-stack web development and AI-powered applications<br>🧩 Regularly practice DSA to strengthen logic and problem-solving skills<br>🔍 Curious about how real-world products are designed, built, and optimized
 
