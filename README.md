@@ -56,7 +56,7 @@
 **Tech Stack:** React, Node.js, Express, MongoDB
 
 **Project 2:** 🧠 AI Code Review Tool  
-**Description:** An AI-powered tool that analyzes source code and provides feedback on bugs and inefficiencies. 
+**Description:** An AI-powered tool that analyzes source code and provides feedback on bugs and inefficiencies.
 **Tech Stack:**  React, Node.js, Express, AI models
 
 **Project 3:** 🗳 Online Voting System  
